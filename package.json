@@ -1,0 +1,16 @@
+{
+  "name": "repro-for-14246",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.22.1"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.34"
+  }
+}
